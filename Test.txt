@@ -1,3 +1,2 @@
 This is my test file to learn Git.
-
 My name is Dimi
